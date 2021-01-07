@@ -7,8 +7,8 @@
     "web": "expo start --web",
     "eject": "expo eject",
     "lint": "eslint *.js **/*.js",
-    "lint:fix": "yarn lint --fix"
-  },
+    "lint:fix": "yarn lint --fix" 
+  },   
   "dependencies": {
     "@expo/vector-icons": "^10.0.6",
     "@react-native-community/masked-view": "0.1.5",
