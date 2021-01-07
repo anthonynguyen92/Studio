@@ -21,7 +21,7 @@
     "expo": "~36.0.0",
     "expo-constants": "~8.0.0",
     "expo-font": "~8.0.0",
-    "formik": "^2.1.2",
+    "formik": "^2.1.2", 
     "i18n-js": "^3.5.1",
     "lodash": "^4.17.15",
     "native-base": "2.13.8",
