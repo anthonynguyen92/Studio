@@ -25,6 +25,7 @@ const ENV = {
   },
 };
 
+
 export const getEnvVars = () => {
   // eslint-disable-next-line no-undef
   return __DEV__ ? ENV.dev : ENV.prod;
