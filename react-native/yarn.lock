@@ -15,7 +15,7 @@
   integrity sha512-CurCIKPTkS25Mb8mz267vU95vy+TyUpnctEX2lV33xWNmHAfjruztgiPBbXZRh3xZZy1CYvGx6XfxyTVS+sk7Q==
   dependencies:
     browserslist "^4.8.5"
-    invariant "^2.2.4"
+    invariant "^2.2.4" 
     semver "^5.5.0"
 
 "@babel/core@^7.0.0":
