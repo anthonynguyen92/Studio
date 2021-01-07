@@ -13,6 +13,7 @@ namespace TN.Studio
         protected StudioAppService()
         {
             LocalizationResource = typeof(StudioResource);
+            
         }
     }
 }
