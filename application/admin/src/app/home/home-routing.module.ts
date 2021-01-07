@@ -10,11 +10,5 @@ const routes: Routes = [
   exports: [RouterModule],
 }
 )
-export class HomeRoutingModule {
-
-
-  
-}fwefwef
-d
-a
-4
+export class HomeRoutingModule {  
+}
